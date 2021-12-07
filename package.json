@@ -1,0 +1,14 @@
+{
+  "name": "pyth-nft-oracle",
+  "version": "1.0.0",
+  "description": "Pyth oracle for NFT floor and avg prices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ferric.sol",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
